@@ -5,6 +5,7 @@
 
 ##  📑Table of Contents
 
+- [Project Overview](#project-overview)
 - [Project Objectives](#project-objectives)
 - [Data Source and Quality Audit](#data-source-and-quality-audit)
 - [Technical Stack](#technical-stack)
@@ -17,7 +18,26 @@
 - [About the Author](#about-the-author)
 
 ---
+## Project Overview
 
+### 🌍 Background
+The **2023 Rivers State Governorship Election** was a pivotal moment in Nigeria’s democratic landscape, characterized by the deployment of new electoral technologies (BVAS) and a highly competitive multi-party environment. Rivers State, being a major economic hub in the South-South region, presents a complex case study of voter behavior, regional party loyalty, and administrative logistics across its 23 Local Government Areas (LGAs).
+
+### 🎯 The Challenge
+Despite high registration numbers, previous electoral cycles have been marred by **voter apathy**, **logistical delays**, and **high invalidation rates**. For analysts and stakeholders, the core challenge is to identify precisely where the "participation leakages" occur:
+* Is the low turnout due to a lack of interest, or are there specific LGAs where the accreditation process is failing?
+* Are rejected votes scattered randomly, or are they concentrated in specific hotspots that require targeted voter education?
+
+### 💡 The Solution
+This project leverages **Power BI** to transform raw, tabular election data into an interactive, geospatial intelligence dashboard. By applying a strategic data lens, this analysis:
+* **Quantifies the "Participation Funnel":** Visualizes the drop-off from 3.5M+ Registered Voters to the final Accredited count.
+* **Diagnoses Administrative Friction:** Isolates LGAs with disproportionately high rejected ballots (e.g., Gokana and PHC) to create a "Voter Education Roadmap."
+* **Maps Political Dominance:** Provides a clear geographic visualization of party strongholds, allowing for a deeper understanding of the state’s political "DNA."
+
+### 📈 Key Impact
+By the end of this documentation, users will see how raw electoral data can be used to generate **actionable governance insights**. This project doesn't just show "who won"; it shows **how the election functioned**, providing a blueprint for data-driven electoral reform in Rivers State.
+
+---
 ![Election map](Election%20Dashboard.png)
 
 ## Project Objectives
