@@ -1,6 +1,6 @@
 # 🗳️ Rivers State 2023 Governorship Election: A Strategic Data Analytics Case Study
 > **Comprehensive Evaluation of Electoral Logistics, Party Performance, and Voter Behavior using Power BI, Excel, and Power Query.**
-
+![Election map](Election%20Dashboard.png)
 ---
 
 ## 📋 Table of Contents
