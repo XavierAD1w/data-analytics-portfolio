@@ -106,7 +106,8 @@ The data-driven evidence points toward a need for **surgical administrative refo
 ---
 
 ## About the Author
-**[Your Name]**  
+**[Denzel Ayogu]**
+
 Data Analyst & Visualization Specialist — Focusing on transforming complex socio-political data into actionable governance insights.
 
 ---
